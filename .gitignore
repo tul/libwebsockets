@@ -14,3 +14,16 @@ win32port/zlib/Release*/
 *.opensdf
 *.sdf
 *.suo
+Makefile
+config.h
+config.log
+config.status
+.deps
+.libs
+lib/Makefile
+*.la
+*.lo
+*.o
+libtool
+stamp-h1
+test-server/libwebsockets-test-*
